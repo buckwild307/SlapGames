@@ -1,0 +1,5 @@
+name: SlapGames
+main: me.libraryaddict.librarys.McPvP
+author: Slappy
+version: 1.0
+load: startup
